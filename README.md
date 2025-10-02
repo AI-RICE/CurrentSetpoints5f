@@ -1,4 +1,4 @@
-# MultiPhaseAnalysisAndTaxonomy
+# Operating regimes of 5-phase machines
 
 A repository for analysis of operating regimes and setpoints of five-phase machines. We generalize the well-known classification for three-phase systems:
 
