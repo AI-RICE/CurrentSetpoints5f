@@ -15,8 +15,17 @@ Details are provided in our [paper](). This repository provides a way to recreat
 
 ## Using this repository
 
+Run `main_regimes.m` and subsequently `main_boundary.m` to plot the operating regimes and the (smoothened) boundaries between them. The code should work for other machines, some are provided in the Initialization folder. The codes contain the following parameters:
 
-## Other work
-
+- `IPM`: the parameters of the machines.
+- `Vnonrot`: whether the zero-sequence component should be considered or fixed to zero.
+- `calc_opt.n_T`: number of discretization points for the torque.
+- `calc_opt.n_om`: number of discretization points for the rotations.
 
 ## Citation
+
+If you like this work, please cite our paper:
+
+```
+
+```
